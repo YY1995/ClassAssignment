@@ -40,3 +40,9 @@
 C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\bin\Debug\HareAndTortoise.exe.config
 C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.exe
 C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.pdb
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\bin\Debug\HareAndTortoise.exe
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\bin\Debug\HareAndTortoise.pdb
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.csprojResolveAssemblyReference.cache
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.HareAndTortoise_Form.resources
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.Properties.Resources.resources
+C:\Users\n8695164\Downloads\HareAndTortoise(1)\HareAndTortoise\HareAndTortoise\obj\Debug\HareAndTortoise.csproj.GenerateResource.Cache

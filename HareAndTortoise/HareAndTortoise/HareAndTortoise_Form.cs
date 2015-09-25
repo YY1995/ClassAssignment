@@ -33,6 +33,11 @@ namespace HareAndTortoise {
 		//      Determine the correct position (cell) in the TablelayoutPanel of the square
 		//      Add the SquareControl object to that position of the TableLayoutPanel
         
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }//end SetUpGuiGameBoard()
 
 
